@@ -17,7 +17,7 @@ After a series of data restructure and data cleaning, we decided to focus on the
 - WithHusband: If the respondent is with her husband (1) or not (0).
 
 ## Interactive Visualization
-[Interactive Shiny App](https://huandongchang.shinyapps.io/WomenHapiness/)
+[Interactive Shiny App](https://huandongchang.shinyapps.io/WomenHapiness/): See App_Instructions
 
 Example: To explore how the WithHusband differs among the different household treatment statuses, we generated the following graphs. 
  
