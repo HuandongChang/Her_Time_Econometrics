@@ -19,7 +19,7 @@ After a series of data restructure and data cleaning, we decided to focus on the
 ## Interactive Visualization
 [Interactive Shiny App](https://huandongchang.shinyapps.io/WomenHapiness/) and [App Instructions](/App_Instructions.docx)
 
-Example: To explore how the WithHusband differs among the different household treatment statuses, we generated the following graphs. 
+Example: To explore how the WithHusband differs among the different household treatment statuses, we generated the following graph. 
  
 ![](Demo/pic.png)
 
