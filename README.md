@@ -2,7 +2,7 @@
 ## Introduction
 This project aimed to visualize and analyze the factors that influence the happiness of women in rural villages in Amhara, Ethiopia. The data we used was from Professor Tamara McGavock’s (Grinnell College Department of Economics) research paper: “Her Time: A Time Use Study of Women Participating in Livelihoods Programs in Ethiopia”. Our research focused on the reported “happiness level” of each woman. In particular, we wanted to identify if the happiness was impacted by the presence of their husband. Please check [Report](/Report.docx) for more details.
 
-Authors: Aleph Aseffa, Huandong Chang, Haruko Okada
+Authors: Huandong Chang, Aleph Aseffa, and Haruko Okada
 
 Supervisor: Shonda Kuiper (Grinnell College Department of Statistics)
 
