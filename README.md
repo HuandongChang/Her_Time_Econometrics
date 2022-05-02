@@ -21,7 +21,7 @@ After a series of data restructure and data cleaning, we decided to focus on the
 
 Example: To explore how the WithHusband differs among the different household treatment statuses, we generated the following graphs. 
  
-![](Demos/pic.png)
+![](Demo/pic.png)
 
 ## Methodology
 This dataset consisted of three distinct survey types:
